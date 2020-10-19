@@ -1,0 +1,128 @@
+.namabrand {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 25px;
+  color: white !important;
+}
+
+.navbar-light {
+  background-color: #038d53;
+}
+
+a {
+  color: white !important;
+}
+
+li {
+  color: white !important;
+}
+
+header {
+  padding: 262px 0px 269px;
+  margin-top: -68px;
+  background-image: url("/frontend/images/Background home 2.jpg");
+  background-size: cover;
+}
+
+header h1 {
+  color: #fff;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 100px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: #ecf1f5;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #05b96e !important;
+}
+
+.navbar .fixed-top {
+  position: fixed;
+  top: 0;
+}
+
+main section {
+  background-color: #025e4a;
+}
+
+main .container {
+  padding-top: 25px;
+  font-size: larger;
+  color: white;
+}
+
+main img {
+  width: 100%;
+}
+
+h2 {
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+}
+
+.section2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.section-3-heading {
+  background-color: #004136;
+  padding-top: 70px;
+}
+
+.section-3-content {
+  background-color: #004136;
+  margin-top: 0px;
+  padding-bottom: 50px;
+}
+
+.section-3-content .jenis-belajar {
+  padding: 40px 20px 10px;
+  border-radius: 20px;
+  border-width: 3px;
+  border-color: white;
+  margin-bottom: 20px;
+}
+
+.section-3-content .jenis-belajar .jenis-belajar-content {
+  min-height: 380px;
+}
+
+.section-3-content .jenis-belajar img {
+  max-width: 240px;
+}
+
+.section-3-content .jenis-belajar h3 {
+  font-size: 20px;
+  font-family: 'Bebas Neue', cursive;
+  font-weight: 400;
+  color: #047c68;
+}
+
+.section-3-content .jenis-belajar .definisi {
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: #016352;
+}
+
+.section-3-content .jenis-belajar .contoh {
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: #016352;
+}
+
+footer .container-fluid {
+  background-color: #003121;
+}
+
+footer .pembuat {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */

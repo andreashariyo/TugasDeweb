@@ -1,0 +1,40 @@
+.btn-primary {
+    background: orange;
+    border: 0;
+    padding: 15px 41px 15px 41px ;
+    font-size: 16px;
+    font-weight: bold;
+} 
+.btn-primary:hover {
+    background: rgb(151, 102, 11);
+    border: 0;
+}
+
+.btn-secondary {
+    background: none;
+    border: 1px #bcd0e5;
+    padding: 15px 41px 15px 41px ;
+    font-size: 16px;
+    font-weight: bold;
+    color: #173a56;
+} 
+.btn-secondary:hover {
+    background: none;
+    border: 1px solid rgb(159, 177, 197) ;
+    color: #173a56;
+}
+.heroandre h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: rgb(68, 49, 15);
+}
+
+.heroandre p {
+    font-family: 'Poppin', sans-serif;
+    font-size: 18px;
+    color: rgb(39, 26, 2);
+}
+
+.nav-bar .nav-link {
+    color:  rgb(39, 26, 2);
+}
